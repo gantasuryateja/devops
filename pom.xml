@@ -4,7 +4,11 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
+<<<<<<< HEAD
 	<version>1.1.0-SNAPSHOT</version>
+=======
+	<version>1.0.1-SNAPSHOT</version>
+>>>>>>> cd1411666cfb99e52871cda0ea239612a80834aa
 	<packaging>war</packaging>
 
 	<name>devops</name>
